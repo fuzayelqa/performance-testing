@@ -1,4 +1,4 @@
-# performance-testing
+# Performance-Testing
 # 🧪 Apache JMeter Performance Testing Report
  
 ## 📘 Project Overview
