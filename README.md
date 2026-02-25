@@ -4,7 +4,7 @@
 This project demonstrates **API Load Testing**, **Endurance Testing**, and **Spike Testing** using **Apache JMeter (CLI Mode)**.  
 The target system used for testing was the [OrangeHRM Demo Application](https://opensource-demo.orangehrmlive.com).
 
-The purpose of this test was to analyze: 
+The purpose of this test was to analyze:
 - API performance under increasing load  
 - Error rate and response time behavior  
 - Server stability under prolonged stress and sudden spikes
