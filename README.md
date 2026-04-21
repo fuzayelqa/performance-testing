@@ -5,7 +5,7 @@ This project demonstrates **API Load Testing**, **Endurance Testing**, and **Spi
 The target system used for testing was the [OrangeHRM Demo Application](https://opensource-demo.orangehrmlive.com).
 
 The purpose of this test was to analyze:
-- API performance under increasing load  
+- API performance under increasing load   
 - Error rate and response time behavior  
 - Server stability under prolonged stress and sudden spikes
 
